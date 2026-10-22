@@ -1,98 +1,76 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zakariya%20Gezali&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst&descSize=22&descAlignY=68" alt="Zakariya Gezali - Data Analyst" width="100%"/>
-<a href="https://github.com/gezali">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+clean+dashboards;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Always+learning%2C+always+building" alt="Typing animation" />
-</a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=gezali&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
-<a href="https://github.com/gezali?tab=followers"><img src="https://img.shields.io/github/followers/gezali?label=Followers&style=flat-square&color=7aa2f7" alt="Followers" /></a>
-</div>
-<br/>
-👋 About Me
-🔭 Currently working on Prism Insurance Ltd
-🌱 Currently learning Data Analytics (SQL, Python, Power BI, Tableau, Excel, Snowflake, Azure, AWS, Statistics, Probability & EDA)
-💬 Ask me about Power BI, Excel, Data Cleaning, SQL and Data Visualization
-📫 Reach me at gezalizakariya94@gmail.com
-⚡ Fun fact: I turn messy spreadsheets into clean dashboards, and I enjoy it more than I should
-<br/>
-🛠️ Languages & Tools
-<div align="left">
-Analytics & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-Languages & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-Python Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-Cloud & Other Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-</div>
-<br/>
-🚀 Featured Projects
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/gezali/Prism-Insurance-Dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=Prism-Insurance-Dashboard&theme=tokyonight&hide_border=true" alt="Prism Insurance Dashboard" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/gezali/billing-system-at-supermarket">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=billing-system-at-supermarket&theme=tokyonight&hide_border=true" alt="Supermarket Billing System" />
-      </a>
-    </td>
-  </tr>
-</table>
-<!--
-  ADD YOUR RETAIL PROJECT after you create the repository.
-  Remove this comment and change REPO-NAME to your exact repository name.
-
-<p align="center">
-  <a href="https://github.com/gezali/REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=REPO-NAME&theme=tokyonight&hide_border=true" alt="Retail Sales and Returns Analysis" />
-  </a>
-</p>
-Project	What it does	Tools
-Prism Insurance Dashboard	Interactive dashboard analysing insurance data	Data Analytics, Dashboarding
-Supermarket Billing System	Simulates a supermarket billing flow with customer details	Python
-<br/>
-📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gezali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gezali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+clean+dashboards;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Always+learning%2C+always+building" alt="Typing animation"/>
 <br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gezali&theme=tokyonight" alt="Profile details" />
+<img src="https://komarev.com/ghpvc/?username=gezali&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/gezali?label=Followers&style=flat-square&color=7aa2f7" alt="Followers"/>
 </div>
-<br/>
-🔥 Contribution Streak
+<h2>👋 About Me</h2>
+<ul>
+<li>🔭 Currently working on <a href="https://github.com/gezali/Prism-Insurance-Dashboard"><b>Prism Insurance Ltd</b></a></li>
+<li>🌱 Currently learning <b>Data Analytics</b> (SQL, Python, Power BI, Tableau, Excel, Snowflake, Azure, AWS, Statistics, Probability &amp; EDA)</li>
+<li>💬 Ask me about <b>Power BI, Excel, Data Cleaning, SQL and Data Visualization</b></li>
+<li>📫 Reach me at <a href="mailto:gezalizakariya94@gmail.com"><b>gezalizakariya94@gmail.com</b></a></li>
+<li>⚡ Fun fact: <b>I turn messy spreadsheets into clean dashboards, and I enjoy it more than I should</b></li>
+</ul>
+<h2>🛠️ Languages &amp; Tools</h2>
+<p><b>Analytics &amp; BI</b><br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
+<p><b>Languages &amp; Databases</b><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+</p>
+<p><b>Python Libraries</b><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+</p>
+<p><b>Cloud &amp; Other Tools</b><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+<h2>🚀 Featured Projects</h2>
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/gezali/Prism-Insurance-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=Prism-Insurance-Dashboard&theme=tokyonight&hide_border=true" alt="Prism Insurance Dashboard"/></a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/gezali/billing-system-at-supermarket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=billing-system-at-supermarket&theme=tokyonight&hide_border=true" alt="Supermarket Billing System"/></a>
+</td>
+</tr>
+</table>
+<h2>📊 GitHub Stats</h2>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=gezali&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=gezali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gezali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gezali&theme=tokyonight" alt="Profile details"/>
 </div>
-<br/>
-📈 Contribution Activity Graph
+<h2>🔥 Contribution Streak</h2>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gezali&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
+<img src="https://streak-stats.demolab.com?user=gezali&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
-<br/>
-🤝 Connect With Me
+<h2>📈 Contribution Activity Graph</h2>
 <div align="center">
-<!-- Replace YOUR-LINKEDIN-ID with the text at the end of your LinkedIn profile URL, with no spaces -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:gezalizakariya94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/gezali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gezali&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%"/>
 </div>
-<br/>
+<h2>🤝 Connect With Me</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:gezalizakariya94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/gezali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%"/>
+</div>
