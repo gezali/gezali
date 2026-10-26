@@ -44,7 +44,7 @@
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/gezali/Prism-Insurance-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=Prism-Insurance-Dashboard&theme=tokyonight&hide_border=true" alt="Prism Insurance Dashboard"/></a>
+<a href="https://github.com/gezali/Prism-Insurance-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=Prism-Insurance-Dashboard&theme=tokyonight&hide_border=true&v=2" alt="Prism Insurance Dashboard"/></a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/gezali/billing-system-at-supermarket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=billing-system-at-supermarket&theme=tokyonight&hide_border=true" alt="Supermarket Billing System"/></a>
