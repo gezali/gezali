@@ -40,17 +40,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-<h2>🚀 Featured Projects</h2>
-<table>
-<tr>
-<td width="50%" align="center">
-<a href="https://github.com/gezali/Prism-Insurance-Dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=Prism-Insurance-Dashboard&theme=tokyonight&hide_border=true&v=2" alt="Prism Insurance Dashboard"/></a>
-</td>
-<td width="50%" align="center">
-<a href="https://github.com/gezali/billing-system-at-supermarket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gezali&repo=billing-system-at-supermarket&theme=tokyonight&hide_border=true" alt="Supermarket Billing System"/></a>
-</td>
-</tr>
-</table>
 <h2>📊 GitHub Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=gezali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="170"/>
