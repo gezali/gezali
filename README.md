@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 </p>
@@ -42,22 +43,21 @@
 </p>
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gezali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gezali&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170"/>
-<br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gezali&theme=tokyonight" alt="Profile details"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gezali&theme=tokyonight" alt="Repos per language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gezali&theme=tokyonight" alt="Most used languages" width="48%"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gezali&theme=tokyonight" alt="GitHub stats" width="60%"/>
 </div>
 <h2>🔥 Contribution Streak</h2>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=gezali&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
-<h2>📈 Contribution Activity Graph</h2>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gezali&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%"/>
-</div>
 <h2>🤝 Connect With Me</h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/zakariya-gezali-389393235"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.hackerrank.com/profile/gezalizakariya94"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 <a href="mailto:gezalizakariya94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/gezali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
