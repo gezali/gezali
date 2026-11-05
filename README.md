@@ -3,6 +3,10 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+clean+dashboards;Power+BI+%7C+SQL+%7C+Excel+%7C+Python;Always+learning%2C+always+building" alt="Typing animation"/>
 <br/><br/>
+<a href="https://portfolio-gezali.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-1a1b26?style=for-the-badge&logo=vercel&logoColor=white&labelColor=555555" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/zakariya-gezali-389393235"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-1a1b26?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn"/></a>
+<a href="https://github.com/gezali"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-1a1b26?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"/></a>
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=gezali&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/gezali?label=Followers&style=flat-square&color=7aa2f7" alt="Followers"/>
 </div>
@@ -56,10 +60,8 @@
 </div>
 <h2>🤝 Connect With Me</h2>
 <div align="center">
-<a href="https://www.linkedin.com/in/zakariya-gezali-389393235"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.hackerrank.com/profile/gezalizakariya94"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 <a href="mailto:gezalizakariya94@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/gezali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" width="100%"/>
 </div>
